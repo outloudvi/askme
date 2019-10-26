@@ -13,6 +13,6 @@ Encrypt and send to me by email? You can try [encrypt.to](https://encrypt.to/0xE
 * [User key](https://github.com/outloudvi/askme/blob/master/key_outviv.gpg)
 * [Codesigning key](https://github.com/outloudvi/askme/blob/master/key_codesigning.gpg)
 
-The key addition commit [d1237d46](https://github.com/outloudvi/askme/commit/d1237d46d4cc6f7153e498e2508a07367e4292fb) is signed.
+The key addition commit should be signed. You can review them [here](https://github.com/outloudvi/askme/commits/master).
 
 My proofs on GitHub Gist is listed [here](https://gist.github.com/outloudvi/62995c3c1bbac1c96b29d0c5409f33db).
