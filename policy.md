@@ -1,5 +1,5 @@
 title: GPG 签名方针
-date: 2019/4/20
+date: 2019/11/13
 layout: post
 ---
 
@@ -9,9 +9,7 @@ layout: post
 pub   rsa4096/0xE14A40B70A930B8B 2017-11-11 [SCE]
       Key fingerprint = 254E B0C5 F08C 4EF4 73F1  9448 E14A 40B7 0A93 0B8B
 uid                   [ultimate] Outvi V <i@outv.im>
-uid                   [ultimate] Outloudvi <outloudvi@outlook.com>
 uid                   [ultimate] outloudvi (on Keybase.io)
-uid                   [ultimate] outloudvi <outloudvi@yandex.com>
 ```
 
 您可以在以下位置获取此公钥的最新版本（可能会有多至 24 小时的延迟）：
