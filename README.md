@@ -10,8 +10,8 @@ Wanna encrypt? Encrypt for GPG 0x0a930b8b, you can also [do it online](https://k
 Encrypt and send to me by email? You can try [encrypt.to](https://encrypt.to/0xE14A40B70A930B8B).
 
 ## My GPG keys
-* [User key](https://github.com/outloudvi/askme/blob/master/key_outviv.gpg)
-* [Codesigning key](https://github.com/outloudvi/askme/blob/master/key_codesigning.gpg)
+* [User key](https://github.com/outloudvi/askme/blob/master/pubkey.asc) (ASCII)
+* [Codesigning key](https://github.com/outloudvi/askme/blob/master/codesigning.asc) (ASCII)
 
 The key addition commit should be signed. You can review them [here](https://github.com/outloudvi/askme/commits/master).
 
