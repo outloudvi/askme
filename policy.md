@@ -6,10 +6,9 @@ layout: post
 此方针适用于以下密钥做出的 GPG 签名：
 
 ```
-pub   rsa4096/0xE14A40B70A930B8B 2017-11-11 [SCE]
-      Key fingerprint = 254E B0C5 F08C 4EF4 73F1  9448 E14A 40B7 0A93 0B8B
-uid                   [ultimate] Outvi V <i@outv.im>
-uid                   [ultimate] outloudvi (on Keybase.io)
+pub   rsa4096/0xA725CB57CA65CAFE 2020-05-07 [SCEA]
+      Key fingerprint = 7A95 4382 9E47 5D7D 3826  B08D A725 CB57 CA65 CAFE
+uid                   [ultimate] Outvi V (outloudvi) <i@outv.im>
 ```
 
 您可以在以下位置获取此公钥的最新版本（可能会有多至 24 小时的延迟）：
@@ -19,7 +18,7 @@ uid                   [ultimate] outloudvi (on Keybase.io)
 * https://github.com/outloudvi/askme/blob/master/pubkey.gpg
 * https://github.com/outloudvi/askme/blob/master/pubkey.asc
 
-Keybase 上亦有此公钥（[这里](https://keybase.io/outloudvi/pgp_keys.asc?fingerprint=254eb0c5f08c4ef473f19448e14a40b70a930b8b)或[这里](https://keybase.pub/outloudvi/pubkey.asc)），但可能不是最新版本。
+Keybase 上亦有此公钥（[这里](https://keybase.io/outloudvi/pgp_keys.asc?fingerprint=7a9543829e475d7d3826b08da725cb57ca65cafe)或[这里](https://keybase.pub/outloudvi/pubkey.asc)），但可能不是最新版本。
 
 本方针参考了以下内容：
 * Olaf Gellert 的 [GnuPG Key Signing Policy](http://www.arasca.com/olaf/pgp/policy.html)
