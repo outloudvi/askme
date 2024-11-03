@@ -1,18 +1,16 @@
-**GPG main key changed to 0xA725CB57CA65CAFE due to concerns on Keybase acquired by Zoom.** - @65Cafe
-
 # askme
-Feel free to ask me here if needed. You might need a GitHub account to post here.
 
-I mean issues. Click [here](https://github.com/outloudvi/askme/issues/new) to ask.
+Click [here](https://github.com/outloudvi/askme/issues/new) to ask. You might need a GitHub account to post here.
 
-Wanna encrypt? Encrypt for GPG 0x0a930b8b, you can also [do it online](https://keybase.io/encrypt#outloudvi)!
+Private asks? Send them via e-mail or [Marshmello](https://marshmallow-qa.com/xbq33n8dtj3gtuo).
 
-Also, you can try [encrypt.to](https://encrypt.to/0xA725CB57CA65CAFE) to send me messages online.
+Contact information on other sites may be available on [this ASP profile](https://keyoxide.org/aspe:keyoxide.org:GXUDWHMXXHGWMGJ32UVFKUY5FE).
 
 ## My GPG keys
+
 * [User key](https://github.com/outloudvi/askme/blob/master/pubkey.asc) (ASCII)
+    * Fingerprint: 7A95 4382 9E47 5D7D 3826 B08D A725 CB57 CA65 CAFE
 * [Codesigning key](https://github.com/outloudvi/askme/blob/master/codesigning.asc) (ASCII)
+    * Fingerprint: 9CC7 A3E4 0569 72CC A5FB 4E12 4785 4E93 C7F4 F470
 
 The key addition commit should be signed. You can review them [here](https://github.com/outloudvi/askme/commits/master).
-
-My proofs on GitHub Gist is listed [here](https://gist.github.com/outloudvi/62995c3c1bbac1c96b29d0c5409f33db).
